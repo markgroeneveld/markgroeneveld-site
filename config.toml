@@ -1,0 +1,4 @@
+baseURL = "https://harmonytheory.org/"
+languageCode = "nl-nl"
+title = "Harmony Theory"
+theme = "ananke"

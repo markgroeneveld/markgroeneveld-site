@@ -2,3 +2,31 @@ baseURL = "https://harmonytheory.org/"
 languageCode = "nl-nl"
 title = "Harmony Theory"
 theme = "ananke"
+
+# Deze regel is essentieel voor GitHub Pages
+publishDir = "docs"
+
+[params]
+  description = "Een verkenning van harmonietheorie"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Introductie"
+    url = "/introduction/"
+    weight = 2
+  [[menu.main]]
+    name = "Kernconcepten"
+    url = "/core-concepts/"
+    weight = 3
+  [[menu.main]]
+    name = "Fysica"
+    url = "/physics/"
+    weight = 4
+  [[menu.main]]
+    name = "Filosofie"
+    url = "/philosophy/"
+    weight = 5

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harmony Theory</title>
+    <link>https://harmonytheory.org/</link>
+    <description>Recent content on Harmony Theory</description>
+    <generator>Hugo</generator>
+    <language>nl-nl</language>
+    <lastBuildDate>Fri, 18 Apr 2025 16:38:28 +0200</lastBuildDate>
+    <atom:link href="https://harmonytheory.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophy</title>
+      <link>https://harmonytheory.org/philosophy/</link>
+      <pubDate>Fri, 18 Apr 2025 16:38:28 +0200</pubDate>
+      <guid>https://harmonytheory.org/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core Concepts</title>
+      <link>https://harmonytheory.org/core-concepts/</link>
+      <pubDate>Fri, 18 Apr 2025 16:38:27 +0200</pubDate>
+      <guid>https://harmonytheory.org/core-concepts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics</title>
+      <link>https://harmonytheory.org/physics/</link>
+      <pubDate>Fri, 18 Apr 2025 16:38:27 +0200</pubDate>
+      <guid>https://harmonytheory.org/physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mijn Theorie</title>
+      <link>https://harmonytheory.org/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://harmonytheory.org/introduction/</guid>
+      <description>&lt;h1 id=&#34;welkom-bij-mijn-theorie&#34;&gt;Welkom bij Mijn Theorie&lt;/h1&gt;&#xA;&lt;p&gt;Deze website is gewijd aan de verkenning van een nieuw theoretisch concept dat raakvlakken heeft met zowel natuurkunde als filosofie.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wat-is-te-vinden-op-deze-site&#34;&gt;Wat is te vinden op deze site?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://harmonytheory.org/introduction/&#34;&gt;Introductie&lt;/a&gt; - Ontdek de oorsprong en basis van de theorie&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://harmonytheory.org/core-concepts/&#34;&gt;Kernconcepten&lt;/a&gt; - Leer over de fundamentele elementen van de theorie&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://harmonytheory.org/physics/&#34;&gt;Fysica&lt;/a&gt; - Verken de natuurkundige implicaties&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://harmonytheory.org/philosophy/&#34;&gt;Filosofie&lt;/a&gt; - Duik in de filosofische aspecten&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Begin je reis door op een van de bovenstaande links te klikken of gebruik het navigatiemenu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
